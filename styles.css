@@ -11,16 +11,16 @@
 	
 }
 
-.circle1, .circle2, .red{
+.green, .yellow, .red{
 	height:100px;
 	width:100px;
     border-radius:100px;
 	margin:5px;
 }
-.circle1{
+.green{
 	background-color:green;
 }
-.circle2{
+.yellow{
    background-color:yellow;
 }
 .red{
